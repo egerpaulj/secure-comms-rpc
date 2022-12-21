@@ -1,0 +1,3 @@
+some test to be compressed
+
+compress me!

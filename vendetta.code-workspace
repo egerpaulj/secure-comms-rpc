@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "encryptionClient"
+		},
+		{
+			"path": "encryptionCore"
+		},
+		{
+			"path": "encryptionInternal"
+		},
+		{
+			"path": "encryptionServer"
+		},
+		{
+			"path": "nettyCore"
+		},
+		{
+			"path": "requestManagement.core"
+		},
+		{
+			"path": "requestManagement.impl"
+		},
+		{
+			"path": "utilsCore"
+		},
+		{
+			"path": "worker"
+		}
+	],
+	"settings": {
+		"maven.view": "hierarchical",
+		"java.dependency.packagePresentation": "hierarchical",
+		"java.dependency.syncWithFolderExplorer": false,
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
